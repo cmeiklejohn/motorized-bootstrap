@@ -4,9 +4,15 @@ Rails engine, supplying Twitter's bootstrap in SCSS.
 
 == Usage
 
+Require the gem in your app's Gemfile:
+
+    gem 'motorized-bootstrap'
+
 In application.css.scss, add the following:
 
     @import "bootstrap";
+
+Done!
 
 == Thanks
 
