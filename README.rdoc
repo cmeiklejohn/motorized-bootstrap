@@ -1,0 +1,11 @@
+= Motorized Bootstrap
+
+Rails engine, supplying Twitter's bootstrap in SCSS. 
+
+== Usage
+
+In application.css.scss, add ```@import "bootstrap";```.
+
+== Thanks
+
+Thanks to {Teddy Zetterlund's SCSS version of bootstrap}[https://github.com/teddyzetterlund/twitter-bootstrap-scss]
