@@ -16,4 +16,5 @@ Gem::Specification.new do |gem|
   gem.version       = Motorized::Bootstrap::VERSION
 
   gem.add_dependency('sass', '>= 3.1')
+  gem.add_dependency('rake', '>= 0.8.7')
 end
